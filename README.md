@@ -44,6 +44,7 @@ I designed, soldered, and coded the entire system myself, including diagrams and
 ### 🔧 Full System Overview
 ![Full Picture](src/assets/fullPicture.JPG)
 
+* This image was taken for demonstration long after the system was dismantled, so a lot of things are missing *
 ---
 
 ## 🧩 Technical Highlights
