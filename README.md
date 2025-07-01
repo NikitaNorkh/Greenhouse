@@ -16,7 +16,7 @@ I personally designed, soldered, and coded the entire system from scratch — fr
 💧 DIY Soil Moisture Sensors
 <img src="src/assets/sensors.JPG" alt="Sensors" width="500"/> <img src="src/assets/sensorsInSoil.JPG" alt="Sensors in Soil" width="500"/>
 🛢️ Water Tank Setup
-<img src="src/assets/tank.jpg" alt="Tank" width="500"/>
+<img src="src/assets/tank.JPG" alt="Tank" width="500"/>
 🔌 Internal Wiring and Cable Management
 <img src="src/assets/mounted_inside.jpg" alt="Mounted Inside" width="500"/>  <img src="src/assets/mountedCables.jpg" alt="Mounted Cables" width="500"/> 
 🌡️ Status Display
