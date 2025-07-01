@@ -49,11 +49,11 @@ I designed, soldered, and coded the entire system myself, including diagrams and
 ## 🧩 Technical Highlights
 
 - 11 DIY analog soil moisture sensors  
-- DS18B20 digital temperature sensor  
-- **Arduino Uno** — system brain (pumps, heater, windows, etc.)  
-- **Arduino Nano** — dedicated to reading analog sensors  
+- DS18B20 digital temperature sensors ( for water and air )  
+- **Arduino Uno** — system brain (pumps, heater, windows, valve, etc.)  
+- **Arduino Nano** — dedicated to reading analog sensors, controlling relays  
 - Serial communication between Arduinos  
-- Relay modules for pump & heater control  
+- Relay modules for pump & heater control, valve, windows opening, door opening  
 - LCD display for real-time status  
 - System protection with fuses & circuit separation  
 
@@ -65,19 +65,13 @@ I designed, soldered, and coded the entire system myself, including diagrams and
 - 🚀 Completed at age **14**, proving solid skills in electronics & microcontrollers  
 - 🌱 Real-world solution for automated plant care, time-saving, better yield  
 
----
 
 ## 📂 Project Structure
-
-src/assets/ # Photos and diagrams
-src/arduino_code/ # Source code for Arduino Uno & Nano
-README.md # You're reading it
-
-yaml
-Copy
-Edit
-
----
+```
+src/assets/           # Photos and diagrams
+src/arduino_code/     # Source code for Arduino Uno & Nano
+README.md             # You're reading it
+```
 
 ## 🤝 Contact
 
